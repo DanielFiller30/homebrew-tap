@@ -1,6 +1,6 @@
 # DanielFiller30 Tap
 
-## How do I install these formulae?
+## How do I install these formular?
 
 `brew install danielfiller30/tap/<formula>`
 
