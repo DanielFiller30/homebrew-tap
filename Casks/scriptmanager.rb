@@ -6,4 +6,4 @@ cask "scriptmanager" do
   name "ScriptManager"
   desc "Manager to organize and use your own terminal-scripts"
   homepage "https://github.com/DanielFiller30/ScriptManager/tree/1.0.2"
-  end
+end
