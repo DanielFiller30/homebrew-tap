@@ -4,7 +4,7 @@ cask "scriptmanager" do
 
   url "https://github.com/DanielFiller30/ScriptManager/releases/download/#{version}/ScriptManager.zip"
   name "ScriptManager"
-  desc "Manager to organize and use your own terminal-scripts"
+  desc "Manager to organize and use your own terminal scripts"
   homepage "https://github.com/DanielFiller30/ScriptManager/tree/1.0.3"
 
   app "ScriptManager.app"
