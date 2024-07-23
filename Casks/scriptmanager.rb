@@ -1,4 +1,3 @@
-
 cask "scriptmanager" do
   version "1.0.3"
   sha256 "6367d803edb65480567bd2494b21c5a6e0890a6f1e2449780123365b667a7df7"
