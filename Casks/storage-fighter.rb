@@ -7,7 +7,7 @@ cask "storage-fighter" do
   desc "Disk space analyser and safe clean-up tool"
   homepage "https://github.com/DanielFiller30/Storage-Fighter"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Stofi.app"
 
